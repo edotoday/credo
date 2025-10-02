@@ -88,7 +88,7 @@ Realizing these principles requires time and perseverance. A steady, pragmatic a
 
 Let us remain resolute in championing digital self-ownership.
 
-Onward.
+Onward
 
 [^1]: [The Network State](https://thenetworkstate.com/the-network-state-in-one-sentence).
 [^2]: [Zipped by Kryptography](https://twitter.com/vitalikbuterin/status/1309298689156866048)
